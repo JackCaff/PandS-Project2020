@@ -17,7 +17,7 @@ In order to complete the project the following was required:
 ***Fisher's Iris Data Set***
 ============================
 
-The Fisher Iris Data set was first introduced by biologist *Ronald Fisher* in his 1936 paper " *The use of multiple measurments in taxonomic problems*. The data set comprises of 150 records captured under 5 attributes for three related species of ***Iris Flower***. These attributes include: <br>
+The Fisher Iris Data set was first introduced by biologist *Ronald Fisher* in his 1936 paper " *The use of multiple measurments in taxonomic problems* ". The data set comprises of 150 records captured under 5 attributes for three related species of ***Iris Flower***. These attributes include: <br>
 1. Petal Length. <br>
 2. Petal Width. <br>
 3. Sepal Length. <br>
@@ -32,10 +32,20 @@ The data set is also known as *Anderson's Iris* data set, because the data used 
 The aim of the Data set is to categorize and model the class memebership, of the 3 species of Iris flowers from length and width recorded measurments of Sepals and Petals of each of the flowers.<br>
 It is also widely acknowledged as the best known example in the field of machine learning. [3]
 
-
+ 
 ### References 
 ---------
 1. Formatting [Basic Syntax] (https://www.markdownguide.org/basic-syntax/ "Guide for Markdown").
 2. [Iris Flower Dataset] (https://www.kaggle.com/arshid/iris-flower-dataset).
 3. Machine Learning Examples [Neural designer] (https://www.neuraldesigner.com/learning/examples/iris-flowers-classification).
 
+#### Project Summary. 
+* Reviewed project requirments as indentified by the problem statment.<br>
+* Created github repository and cloned to PC. <br>
+* Committed Initial commit to ensure repository was set up correctly. <br>
+* Researched formatting of README files - *MARKDOWN* <br>
+* Edited README files and comitted various test commits to verify formatting. <br>
+* Researched *Fishers Iris Data Set*. <br>
+* Committed introduction of Summary to README. <br>
+* Committed Summary to README and various formatting updates. <br>
+* Added *Project Summary* notes & Inital test of program. <br>
