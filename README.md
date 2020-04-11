@@ -1,5 +1,5 @@
-PandS-Project2020
-Jack Caffrey
+***PandS-Project2020*** <br>
+***Jack Caffrey***
 =================
 
 ### Introduction 
@@ -23,8 +23,8 @@ The Fisher Iris Data set was first introduced by biologist *Ronald Fisher* in hi
 3. Sepal Length. <br>
 4. Sepal Width. <br>
 5. Class (Species) <br>
-These records were then used to quantify the morphologic variation between 1. *Iris Setose*, 2. *Iris Virginica* and 3. *Iris Versicolour* Flower.<br> 
-The data set is also known as *Anderson's Iris* data set because the data used in the data set was captured by Edgar Anderson. [2]
+These records were then used to quantify the morphologic variation between 1. *Iris Setose*, 2. *Iris Virginica* and 3. *Iris Versicolour* Flowers.<br> 
+The data set is also known as *Anderson's Iris* data set, because the data used in the data set was captured by Edgar Anderson. [2]
 
 ***Aim of the Fisher Iris Data Set***
 =====================================
@@ -33,7 +33,7 @@ The aim of the Data set is to categorize and model the class memebership, of the
 It is also widely acknowledged as the best known example in the field of machine learning. [3]
 
 
-Refrences 
+### References 
 ---------
 1. Formatting [Basic Syntax] (https://www.markdownguide.org/basic-syntax/ "Guide for Markdown").
 2. [Iris Flower Dataset] (https://www.kaggle.com/arshid/iris-flower-dataset).
