@@ -1,1 +1,6 @@
-dfDFDFDF
+The total number of samples recorded is 150. 
+These samples are a combination of 3 sets of 50 Iris flower classes. These classes include: 
+Setosa 
+Versicolor 
+Virginica. 
+ The largest value recorded for Sepal Length was 7.9 the smallest value recorded was 4.3 from the 150 samples.
