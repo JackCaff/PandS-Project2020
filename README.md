@@ -66,6 +66,7 @@ It is also widely acknowledged as the best known example in the field of machine
 * Researched creating and saving Histograms as PNG files in python and included in analysis.py program.<br>
 * Created scatter plot for inital pair of variables.<br>
 * All References used in the creation of this program are idenified below or in the code as [#] <br>
+* Github was used to save all commits while carrying out the project
 
 
 ### References 
