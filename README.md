@@ -43,14 +43,15 @@ It is also widely acknowledged as the best known example in the field of machine
 * The Fisher Iris Data Set (saved in CSV formatt) is then read into the program using the ***df = pd.read_csv("iris_csv.csv")*** this file is used in the creation of the Summary.txt, Histograms and Scatter Plots.<br>
 * Max and minimum values are defined to assist in the analysis of the data set in the creation of the ***Summary.txt*** file.<br>
 * Program opens the ***Summary.txt*** and writes (w), the summary of the analysis of each of the variables to this txt file.<br>
+* f.close () closes the ***Summary.txt file***.
 * Histogram of each of the variables is saved in PNG formatt in the file directory.<br>
-* Scatter plots for the different variables then created and displayed as the program is run. <br>
+* Scatter plots for the different variables are then created and displayed as the program is run. <br>
 
 * The following outputs are automatically created when the program is run: <br>
 1. A summary of the Fisher Iris Data Set, the operation of the program, the expected program outputs, approach taking to complete the project and the references used when creating the program in the ***README***.
 2. Anaylsis of the Data Set in the form ***Summary.txt***.
 3. ***Histogram*** of each of the variables saved in ***PNG formatt***.
-4. ***Scatter*** plots of each of the variables. 
+4. ***Scatter*** plots of each pairs of variables variables. 
 
 #### Project Approach 
 * Reviewed project requirments as indentified by the problem statment.<br>
@@ -65,7 +66,8 @@ It is also widely acknowledged as the best known example in the field of machine
 * Researched writing to txt files in python and included in analysis.py program. <br>
 * Researched creating and saving Histograms as PNG files in python and included in analysis.py program.<br>
 * Created scatter plot for inital pair of variables.<br>
-* All References used in the creation of this program are idenified below or in the code as [#] <br>
+* All References used in the creation of this program are idenified below or in the code as [#]. <br>
+* Reviewed the project before the final commit for submission. 
 * Github was used to save all commits while carrying out the project
 
 

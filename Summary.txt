@@ -1,10 +1,10 @@
-The total number of samples recorded is 450. 
-These samples are a combination of 3 sets of 150 Iris flower classes. These classes include: 
+The total number of samples recorded is 150. 
+These samples are a combination of 3 sets of 50 Iris flower classes. These classes include: 
 Setosa 
 Versicolor 
 Virginica. 
-The largest value recorded for Sepal Length was 7.9 the smallest value recorded was 4.3 from the 150 samples.
-The largest value recorded for Sepal width was 4.4 the smallest value recorded was 2.0 from the 150 samples.
-The largest value recorded for Petal Length was 6.9 the smallest value recorded was 1.0 from the 150 samples.
-The largest value recorded for Petal Length was 2.5 the smallest value recorded was 0.1 from the 150 samples.
- By analysing the Histogram and Scatter plots prodcued by running the program it is possible 
+The largest value recorded for Sepal Length was 7.9 the smallest value recorded was 4.3 from the 50 samples.
+The largest value recorded for Sepal width was 4.4 the smallest value recorded was 2.0 from the 50 samples.
+The largest value recorded for Petal Length was 6.9 the smallest value recorded was 1.0 from the 50 samples.
+The largest value recorded for Petal Length was 2.5 the smallest value recorded was 0.1 from the 50 samples.
+ By analysing the Histogram and Scatter plots prodcued by running the program it is possible to categorize each varitation of the flower according to Sepal Length vs Sepal width and Petal Length vs Petal Width.
